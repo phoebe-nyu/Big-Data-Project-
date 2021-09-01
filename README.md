@@ -1,7 +1,7 @@
 # E-commerce Big Data Sales Analysis & Product Recommendation System 
 #### Group Members
-Yuetong(Phoebe)Zhou
-Sahil Chitnis 
+* Yuetong(Phoebe)Zhou
+* Sahil Chitnis 
 
 As of 2021, almost all the commodities such as clothes, electronics, everyday use groceries as well as services such as house cleaning, plumbing services etc. are sold online on E-commerce websites. It is safe to say that we humans have understood its vitality in our lives and can consider like our best friend. And like any best friend E-commerce websites too have taken up the task to use existing transaction Big Data (sometimes in size of GB’s ) and run Big Data technologies on them to analyze the data quickly and make well informed decisions to improve user experience, predict sales to make sure the companies are ready for heavy days as well as recommend products to us, making it a more personal and thus enriched experience to use these websites. Recommendation systems have started gaining momentum in companies such as Amazon with its recommendation engine that recommends a personalized list of products as soon as we login or Spotify with its list of songs that we are most likely to listen to it. 
 
